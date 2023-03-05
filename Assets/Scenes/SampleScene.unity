@@ -409,7 +409,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   resolution: 10
-  generatorType: 3
+  generatorType: 4
 --- !u!23 &1539020626
 MeshRenderer:
   m_ObjectHideFlags: 0
