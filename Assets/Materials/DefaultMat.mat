@@ -94,7 +94,7 @@ Material:
     - _Parallax: 0.02
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _Ripple: 1
+    - _Ripple: 0
     - _Ripple_Amplitude: 0.1
     - _Ripple_Period: 3
     - _Ripple_Speed: 0.1

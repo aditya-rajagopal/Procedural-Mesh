@@ -408,6 +408,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 402b555c299b2224b8ca14079426e55c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  gizmos: -1
   resolution: 10
   generatorType: 4
 --- !u!23 &1539020626
